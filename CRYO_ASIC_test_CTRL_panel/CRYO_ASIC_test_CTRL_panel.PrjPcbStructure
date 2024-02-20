@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=Card_3723|SchDesignator=Card_3723|FileName=3723_connectors.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=3723_connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=Card_3732|SchDesignator=Card_3732|FileName=3732_connectors.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=3732_connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

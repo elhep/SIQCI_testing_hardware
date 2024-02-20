@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=MultiBoardCryoASIC.MbsDoc|Kind=Multi-board Schematic Module|Designator=M2|Source=CRYO_ASIC_connectors\CRYO_ASIC_connectors.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardCryoASIC.MbsDoc|ProjectPath=CRYO_ASIC_connectors\CRYO_ASIC_connectors.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardCryoASIC.MbsDoc|Kind=Multi-board Schematic Module|Designator=M1|Source=CRYO_ASIC_test_adapter\CRYO_ASIC_test_adapter.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardCryoASIC.MbsDoc|ProjectPath=CRYO_ASIC_test_adapter\CRYO_ASIC_test_adapter.PrjPcb
