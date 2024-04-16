@@ -151,8 +151,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document7]
+DocumentPath=CRYO_ASIC_test_adapter.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for CRYO_ASIC_test_adapter\Design Rule Check - ASIC_test_adapter.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=C:\Users\Tomek\AppData\Local\Temp\Qjz8E29.xls
 DItemRevisionGUID=
 
 [Configuration1]

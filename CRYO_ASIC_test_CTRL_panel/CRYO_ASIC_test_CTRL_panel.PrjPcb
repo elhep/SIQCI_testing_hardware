@@ -98,7 +98,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NDFRRENA
 
 [Document4]
 DocumentPath=3723_connectors.SchDoc
@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SRYTRWYB
 
 [Document6]
-DocumentPath=pcb.PcbDoc
+DocumentPath=ctrl_panel.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -158,7 +158,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -167,6 +167,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QAKTCSDN
+
+[Document8]
+DocumentPath=CRYO_ASIC_test_CTRL_panel.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=FC3F114F-A9C0-4DCB-B61D-1862BEA9E39D
@@ -179,11 +196,19 @@ Variation2=Designator=R38|UniqueId=\QABMPEXG\QADMWDCH|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for CRYO_ASIC_test_CTRL_panel\Design Rule Check - pcb.html
+DocumentPath=Project Outputs for CRYO_ASIC_test_CTRL_panel\Design Rule Check - ctrl_panel.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for CRYO_ASIC_test_CTRL_panel\Design Rule Check - pcb.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for CRYO_ASIC_test_CTRL_panel_PW\Design Rule Check - pcb_pw.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=C:\Users\Tomek\AppData\Local\Temp\QjzB80F.xls
 DItemRevisionGUID=
 
 [Configuration1]
